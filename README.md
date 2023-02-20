@@ -22,5 +22,16 @@ This is a project focused on deadwood recognition using Artificial Intelligent (
 
 ## Results
 
+Random Forest (RF), Artificial Neural Network (ANN), Residual Neural Network (Resnet), Convolutional Neural Network (CNN), Mobile Neural Network (Mobilenet) and Visual Geometry Group Neural Network (VGG16) machine learning methods have been used in this project. 
+Overfitting problem can be solved by early stopping callback.
+And the accuracy was increased to 97.2% by fine tuning work.
+Decision fusion achieved better performance 97.7% and can be robust to outliers.
+The training model works well without mixed patches.
+
+Datasets available in:
+https://drive.google.com/drive/folders/1f0yXys4zgmnzXfFUFGaAYO9xfc2cY3XJ?usp=sharing
+Github repositories:
+https://github.com/SiruiWang0731/BBKI_drone_debris_detection
+
 <img src="https://github.com/SiruiWang0731/BBKI_drone_debris_detection/blob/88f984eb0321a64ca92be23b5cc83489afa65dfa/Screenshot%202023-02-20%20at%2022.49.29.png " width=100% height=100%>
 <img src="https://github.com/SiruiWang0731/BBKI_drone_debris_detection/blob/051c42ccef72a15759c530663628fad5139c6e97/Screenshot%202023-02-20%20at%2022.49.15.png " width=100% height=100%>
