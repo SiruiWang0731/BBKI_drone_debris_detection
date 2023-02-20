@@ -22,5 +22,5 @@ This is a project focused on deadwood recognition using Artificial Intelligent (
 
 ## Results
 
-<img src="https://github.com/SiruiWang0731/BBKI_drone_debris_detection/blob/9714ffdbe6bd5f72d3c430e1e8d08bb28301f8d3/Screenshot%202023-02-14%20at%2013.58.30.png " width=50% height=50%>
+<img src="https://github.com/SiruiWang0731/BBKI_drone_debris_detection/blob/88f984eb0321a64ca92be23b5cc83489afa65dfa/Screenshot%202023-02-20%20at%2022.49.29.png " width=100% height=100%>
 <img src="https://github.com/SiruiWang0731/BBKI_drone_debris_detection/blob/051c42ccef72a15759c530663628fad5139c6e97/Screenshot%202023-02-20%20at%2022.49.15.png " width=100% height=100%>
