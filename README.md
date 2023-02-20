@@ -40,9 +40,13 @@ https://github.com/SiruiWang0731/BBKI_drone_debris_detection
 ## References
 
 [1] Immitzer, M., Atzberger, C., & Koukal, T. (2012). Tree species classification with Random forest using very high spatial resolution 8-band worldView-2 satellite data. Remote Sensing, 4(9), 2661–2693. https://doi.org/10.3390/rs4092661
+
 [2] Dalponte, M., Ørka, H. O., Gobakken, T., Gianelle, D., & Næsset, E. (2013). Tree species classification in boreal forests with hyperspectral data. IEEE Transactions on Geoscience and Remote Sensing, 51(5), 2632–2645. https://doi.org/10.1109/TGRS.2012.2216272
+
 [3] He, K., Zhang, X., Ren, S., & Sun, J. (2015). Deep Residual Learning for Image Recognition. http://image-net.org/challenges/LSVRC/2015/
+
 [4] Hoffmann, E. J., Wang, Y., Werner, M., Kang, J., & Zhu, X. X. (2019). Model fusion for building type classification from aerial and street view images. Remote Sensing, 11(11). https://doi.org/10.3390/rs11111259
+
 [5] Corona, N., Mauricio Galeana-Pizaña, J., Manuel Núñez, J., Luis Silván Cárdenas, J., Corona Romero, N., Mauricio Galeana Pizaña, J., Manuel Nuñez Hernández, J., Manuel Madrigal Gómez, J., Silván Cárdenas, J. L., Corona Romero, N., & Galeana Pizaña, J. M. (2015). Geospatial Technologies to Support Coniferous Forests Research and Conservation Efforts in Mexico. https://www.researchgate.net/publication/283503310
 
 
