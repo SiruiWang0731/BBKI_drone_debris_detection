@@ -3,6 +3,8 @@
 1. Deep Learning model script by python:
 00_preprocessing.ipynb
 
+https://github.com/SiruiWang0731/BBKI_drone_debris_detection/blob/5cbbd871ed9697cd171f7c8a4e962dcac0ef1d98/00_preprocessing.ipynb
+
 2. Data avialable in the link:
 
 https://drive.google.com/drive/folders/1JiA6aKPFjpEfbRObTmS2tcwjuytvUPwz?usp=sharing
