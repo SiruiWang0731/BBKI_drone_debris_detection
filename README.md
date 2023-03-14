@@ -13,7 +13,7 @@ https://drive.google.com/drive/folders/1JiA6aKPFjpEfbRObTmS2tcwjuytvUPwz?usp=sha
 
 BB-KI-CHIPS: 
 
-https://docs.google.com/document/d/11IQSQ-1cRyDhSgduSYb7LA-THL6GOW8cnAWJFhgfDZ0/edit?usp=sharing
+https://github.com/SiruiWang0731/BBKI_drone_debris_detection/blob/38112e632050ccb4a7e137aa19fc09b35fddf27f/Group%203%20-%20BB-KI-Deadwood%20Detection%20Report%20.pdf
 ## Abstract
 
 This is a project focused on deadwood recognition using Artificial Intelligent (AI) method. BB-KI-CHIPS project aims at building AI chips and detecting debris by UAV data.  In this project, Random Forest (RF) [1], Artificial Neural Network (ANN), Residual Neural Network (Resnet), Mobile Neural Network (Mobilenet),  Visual Geometry Group Neural Network (VGG16) and Convolutional Neural Network (CNN) machine learning methods have been used. And the accuracy was increased to 97% by fine tuning work.
